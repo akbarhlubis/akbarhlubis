@@ -9,7 +9,7 @@
 [![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarhlubis&show_icons=true&theme=gruvbox)](https://github.com/akbarhlubis/github-readme-stats)
 
 # My Github Page's 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akbarhlubis&repo=akbarhlubis.github.io&theme=gruvbox)](https://github.com/akbarhlubis/github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akbarhlubis&repo=akbarhlubis.github.io&theme=gruvbox)](https://github.com/akbarhlubis/akbarhlubis.github.io)
 
 # Top Language
 
