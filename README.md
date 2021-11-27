@@ -9,11 +9,11 @@
 [![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarhlubis&show_icons=true&theme=gruvbox)](https://github.com/akbarhlubis/github-readme-stats)
 
 # My Github Page's 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akbarhlubis&repo=akbarhlubis.github.io&theme=gruvbox)](https://github.com/akbarhlubis/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akbarhlubis&repo=akbarhlubis.github.io&theme=gruvbox)](https://github.com/akbarhlubis/github.io)
 
 # Top Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarhlubis&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarhlubis&layout=compact&theme=gruvbox)](https://github.com/akbarhlubis)
 
 <!---
 akbarhlubis/akbarhlubis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
