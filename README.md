@@ -1,7 +1,7 @@
 # It's Me!
-- 👋 Hi, I’m @akbarhlubis
+- 👋 Hi, I’m @akbarhlubis an Linux and UI/UX Enthusiast.
 - 👀 I’m interested in UI/UX Design, Web Design and a bit Machine Learning
-- 🌱 I’m currently learning Python, C++, Html and etc.
+- 🌱 I’m currently learning Python, C++, Html, CSS, Figma, UI/UX, and etc.
 - 💞️ I’m looking to collaborate on FRIENDS
 - 📫 How to reach me on Insta @akbarhlubis1
 
