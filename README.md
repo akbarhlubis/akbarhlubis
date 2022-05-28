@@ -1,4 +1,4 @@
-# It's Me!
+# Hello There! It's Me Akbar!
 - 👋 Hi, I’m @akbarhlubis an Linux and UI/UX Enthusiast.
 - 👀 I’m interested in UI/UX Design, Web Design and a bit Machine Learning
 - 🌱 I’m currently learning Python, C++, Html, CSS, Figma, UI/UX, and etc.
