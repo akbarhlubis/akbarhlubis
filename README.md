@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm and UI/UX and Linux Enthusiast Akbar Hamonangan Lubis</h1>
+<h1 align="center">Hi 👋, I'm Akbar Hamonangan Lubis a UI/UX and Linux Enthusiast </h1>
 <h3 align="center">A passionate frontend learner and UI/UX Designer Wannabe from Lampung, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhlubis&label=Profile%20views&color=ff8080&style=flat-square" alt="akbarhlubis" /> </p>
