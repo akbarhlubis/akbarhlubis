@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm and UI/UX and Linux Enthusiast Akbar Hamonangan Lubis</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer Wannabe from Lampung, Indonesia</h3>
+<h3 align="center">A passionate frontend learner and UI/UX Designer Wannabe from Lampung, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhlubis&label=Profile%20views&color=ff8080&style=flat-square" alt="akbarhlubis" /> </p>
 
@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles on [Notion](notion.so/)
 
-- 💬 Ask me about **UI/UX tips, Linux and Frontend Things**
+- 💬 Ask me about **UI/UX, Linux and Frontend Things**
 
-- 📫 How to reach me **alubis87@gmail.com**
+- 📫 How to reach me **alubis87@gmail.com**`````````````````````
 
 - ⚡ Fun fact **I think i'm awkward guy but i hope we can get along well ( i hope so)**
 
