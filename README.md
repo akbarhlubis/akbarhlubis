@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhlubis&label=Profile%20views&color=ff8080&style=flat-square" alt="akbarhlubis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarhlubis" alt="akbarhlubis" /></a> </p>
+<p align="left"> <a href="https://github.com/akbarhlubis/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarhlubis" alt="akbarhlubis" /></a> </p>
 
 
 - 🌱 I’m currently learning **UI/UX, Game Engine such as Gdevelop and Constrcut 2/3 and then Frontend Framework such as Tailwind & Bootstrap, a bit Python and lastly Linux Basic**
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **UI/UX, Linux and Frontend Things**
 
-- 📫 How to reach me **alubis87@gmail.com**`````````````````````
+- 📫 How to reach me **alubis87@gmail.com**
 
 - ⚡ Fun fact **I think i'm awkward guy but i hope we can get along well ( i hope so)**
 
