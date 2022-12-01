@@ -45,6 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarhlubis&theme=dark" alt="akbarhlubis" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbarhlubis&theme=gruvbox)
 
 [![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarhlubis&show_icons=true&theme=gruvbox)](https://github.com/akbarhlubis/github-readme-stats)
 
