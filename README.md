@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbar Hamonangan Lubis a UI/UX and Linux Enthusiast </h1>
-<h3 align="center">A student that passionate frontend learner and UI/UX Designer Wannabe from Lampung, Indonesia</h3>
+<h3 align="center">Hey, I'm a highly curious person especially about Tech from Bandar Lampung City, Indonesia. I enjoy to make UI Design and then make it a fully functional Website as Front End Developer, not just that also an Linux Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhlubis&label=Profile%20views&color=ff8080&style=flat-square" alt="akbarhlubis" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alubis87@gmail.com**
 
-- ⚡ Fun fact **I think i'm awkward guy but i hope we can get along well ( i hope so)**
+- ⚡ Fun fact **I think i'm awkward guy but i hope we can get along well (i hope so)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,18 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarhlubis&show_icons=true&theme=dark&locale=en&layout=compact" alt="akbarhlubis" /></p>
 
-<!-- Artikel Medium Terbaru -->
-<h3 align="left">Latest Article:</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/2" alt="Recent Article 2"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/3" alt="Recent Article 3"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akbarhlubis/4" alt="Recent Article 4"> 
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarhlubis&theme=dark" alt="akbarhlubis" /></p>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbarhlubis&theme=gruvbox)
 
 [![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarhlubis&show_icons=true&theme=gruvbox)](https://github.com/akbarhlubis/github-readme-stats)
