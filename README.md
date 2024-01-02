@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portofolio Web](https://akbarhlubis-page.vercel.app/) and [Github Repo](https://github.com/akbarhlubis?tab=repositories)
 
-- 📝 I regularly write articles on [Notion](notion.so/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@akbarhlubis)
 
 - 💬 Ask me about **UI/UX, Linux and Frontend Things**
 
@@ -34,8 +34,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarhlubis&show_icons=true&theme=dark&locale=en&layout=compact" alt="akbarhlubis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarhlubis&theme=dark" alt="akbarhlubis" /></p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbarhlubis&theme=gruvbox)
 
+[![Akbar's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbarhlubis&theme=gruvbox)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbarhlubis&theme=gruvbox)
 [![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarhlubis&show_icons=true&theme=gruvbox)](https://github.com/akbarhlubis/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akbarhlubis&repo=akbarhlubis.github.io&theme=gruvbox)](https://github.com/akbarhlubis/akbarhlubis.github.io)
